@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi 
+
+Farhan here, just playing around with codes
